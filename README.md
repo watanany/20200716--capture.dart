@@ -9,3 +9,10 @@ $ pub serve
 ```
 
 and access to localhost:8080.
+
+
+## Dart Analyzer
+
+```sh
+$ dartanalyzer --strong ./web
+```
